@@ -1,0 +1,1 @@
+This Day 4 task I do the programmes in anonymous, IIFE, and arrow function method.
